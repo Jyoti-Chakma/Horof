@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 
-### Horof
+## Horof
 
 Horof is an Android App for learning Chakma Language Alphabet. The repository will be a reference in developing app based on Chakma Alphabet. If you want to contribute, please follow instructions.
 
